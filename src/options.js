@@ -27,6 +27,7 @@ export var Options = {
 		iconSize: [32, 32],
 		iconAnchor: [16, 16],
 	}),
+	pane: 'overlayPane',
 	position: "topright",
 	polyline: {
 		className: 'elevation-polyline',
